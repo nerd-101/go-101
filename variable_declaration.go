@@ -5,7 +5,7 @@ import (
 	"reflect"
 )
 
-func main() {
+func variableDeclaration() {
 	// one variable in one line
 	var age int
 	var height float32
