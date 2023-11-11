@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	variableDeclaration()
+	// variableDeclaration()
+	flowControl()
 
 }
